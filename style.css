@@ -37,3 +37,16 @@ h1{
             background-repeat: no-repeat;
             background-position: right;
 }
+.experiences-area{
+    display: flex;
+}
+.full-stack{
+    width: 37%;
+    margin: 10px 10px 100px 100px;
+    box-shadow: 5px 7px 50px gray;
+    padding: 10px 10px 10px 30px;
+}
+
+footer p {
+    text-align: center;
+}

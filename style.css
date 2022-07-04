@@ -30,3 +30,10 @@ h1{
 .side-image{
     width: 100%;
 }
+.flex-container-2{
+            display: flex;
+            margin-top: 100PX;
+            background-image: url(images/dream-bg.png);
+            background-repeat: no-repeat;
+            background-position: right;
+}
